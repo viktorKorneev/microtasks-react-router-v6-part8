@@ -15,7 +15,7 @@ export type PumaItem = {
 export const pumaArr: PumaItem[] = [
     {
         id: 1,
-        model: 'ADIDAS ADIFOM TRXN',
+        model: 'PUMA CLASSIC',
         collection: 'new collection1',
         price: '100200$',
         picture: pumaModel1,
@@ -23,14 +23,14 @@ export const pumaArr: PumaItem[] = [
     },
     {
         id: 2,
-        model: 'ADIDAS ADIFOM SUPER',
+        model: 'PUMA TRINITY OPEN',
         collection: 'new collection22',
         price: '200300$',
         picture: pumaModel2
     },
     {
         id: 3,
-        model: 'ADIDAS SUPER SUPERSKI',
+        model: 'PUMA TRINITY MID',
         collection: 'new collection333',
         price: '300400$',
         picture: pumaModel3
